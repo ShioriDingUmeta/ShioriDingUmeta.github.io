@@ -3,7 +3,6 @@ node_modules
 npm-debug.log
 .DS_Store
 /portfolio
-/_posts/2018-06-24-test.markdown
 */.DS_Store
 */*/.DS_Store
 *.sh
