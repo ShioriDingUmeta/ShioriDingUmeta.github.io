@@ -1,6 +1,11 @@
 # Site settings
+<<<<<<< HEAD
 title: Bao Bao Blog
 SEOTitle: Bao Bao Blog
+=======
+title: Umeta Blog
+SEOTitle: Umeta Blog
+>>>>>>> parent of 589b137... modify blog title
 header-img: img/rina-miele-400320-unsplash.jpg
 email: ume04260925@gmail.com
 description: ""
