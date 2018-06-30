@@ -4,7 +4,6 @@ title:      "ブログはじめました"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2018-06-30 12:00:00
 author:     "Shiori Umeta"
-#header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - others
