@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "超ブラックSFアニメ「リック・アンド・モーティ（Rick and Morty）」が面白すぎる"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2018-06-30 12:00:00
+author:     "Shiori Umeta"
+#header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 海外ドラマ
+---
+
+日本語ではNETFLIXで配信されているアメリカのアニメ「リック・アンド・モーティ(Rick and Morty)」
+
+<p id = "build"></p>
+---
+
+—— Baobao 2018.06
