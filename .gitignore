@@ -2,6 +2,7 @@ _site
 node_modules
 npm-debug.log
 .DS_Store
+/portfolio
 */.DS_Store
 */*/.DS_Store
 *.sh
